@@ -1,0 +1,16 @@
+com\framework\driver\DriverFactory.class
+com\framework\pages\LoginPage.class
+com\framework\pages\ProductsPage.class
+com\framework\reports\ExtentLogger.class
+com\framework\config\ConfigReader.class
+com\framework\listeners\TestListener.class
+com\framework\driver\DriverFactory$1.class
+com\framework\pages\BasePage.class
+com\framework\reports\ExtentReportManager.class
+com\framework\utils\GestureUtils.class
+com\framework\constants\FrameworkConstants.class
+com\framework\constants\PlatformType.class
+com\framework\utils\WaitUtils.class
+com\framework\utils\GestureUtils$SwipeDirection.class
+com\framework\utils\ScreenshotUtils.class
+com\framework\driver\DriverManager.class

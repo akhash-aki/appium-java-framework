@@ -1,0 +1,14 @@
+C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\java\com\framework\config\ConfigReader.java
+C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\java\com\framework\constants\FrameworkConstants.java
+C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\java\com\framework\constants\PlatformType.java
+C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\java\com\framework\driver\DriverFactory.java
+C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\java\com\framework\driver\DriverManager.java
+C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\java\com\framework\listeners\TestListener.java
+C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\java\com\framework\pages\BasePage.java
+C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\java\com\framework\pages\LoginPage.java
+C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\java\com\framework\pages\ProductsPage.java
+C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\java\com\framework\reports\ExtentLogger.java
+C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\java\com\framework\reports\ExtentReportManager.java
+C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\java\com\framework\utils\GestureUtils.java
+C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\java\com\framework\utils\ScreenshotUtils.java
+C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\java\com\framework\utils\WaitUtils.java

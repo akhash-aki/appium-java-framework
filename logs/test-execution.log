@@ -1,0 +1,163 @@
+2026-11-10 20:16:19.207 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:16:19.391 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-10 20:16:19.431 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:16:19.442 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-10 20:16:19.452 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testEmptyUsernameValidation ====
+2026-11-10 20:16:19.455 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:16:19.458 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-10 20:16:19.459 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testInvalidPasswordShowsError ====
+2026-11-10 20:16:19.461 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:16:19.464 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-10 20:16:19.465 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testSuccessfulLogin ====
+2026-11-10 20:16:19.532 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:16:19.851 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.
+2026-11-10 20:17:33.974 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:17:34.118 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-10 20:17:34.153 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:17:34.163 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-10 20:17:34.169 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testEmptyUsernameValidation ====
+2026-11-10 20:17:34.175 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:17:34.177 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-10 20:17:34.178 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testInvalidPasswordShowsError ====
+2026-11-10 20:17:34.180 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:17:34.182 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-10 20:17:34.182 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testSuccessfulLogin ====
+2026-11-10 20:17:34.229 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:17:34.454 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.
+2026-11-10 20:19:36.511 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:19:36.665 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-10 20:19:36.709 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:19:36.722 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.config.ConfigReader - Loaded configuration properties from C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\resources\config.properties
+2026-11-10 20:19:36.753 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:19:37.269 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-10 20:19:37.278 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testEmptyUsernameValidation ====
+2026-11-10 20:19:37.283 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:19:37.284 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:19:37.305 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-10 20:19:37.306 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testInvalidPasswordShowsError ====
+2026-11-10 20:19:37.309 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:19:37.311 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:19:37.330 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-10 20:19:37.331 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testSuccessfulLogin ====
+2026-11-10 20:19:37.382 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:19:37.633 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.
+2026-11-10 20:27:11.004 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:27:11.177 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-10 20:27:11.218 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:27:11.233 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.config.ConfigReader - Loaded configuration properties from C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\resources\config.properties
+2026-11-10 20:27:11.262 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:27:11.693 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-10 20:27:11.701 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testEmptyUsernameValidation ====
+2026-11-10 20:27:11.705 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:27:11.705 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:27:11.727 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-10 20:27:11.728 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testInvalidPasswordShowsError ====
+2026-11-10 20:27:11.731 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:27:11.732 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:27:11.755 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-10 20:27:11.756 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testSuccessfulLogin ====
+2026-11-10 20:27:11.813 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:27:12.084 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.
+2026-11-10 20:29:19.241 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:29:19.512 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-10 20:29:19.563 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:29:19.582 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.config.ConfigReader - Loaded configuration properties from C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\resources\config.properties
+2026-11-10 20:29:19.622 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:29:36.336 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-10 20:29:36.360 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testEmptyUsernameValidation ====
+2026-11-10 20:29:36.366 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:29:36.367 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:29:45.616 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-10 20:29:45.617 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testInvalidPasswordShowsError ====
+2026-11-10 20:29:45.620 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:29:45.620 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:29:54.881 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-10 20:29:54.881 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testSuccessfulLogin ====
+2026-11-10 20:29:57.077 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:30:05.297 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.
+2026-11-10 20:35:51.071 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:35:51.272 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-10 20:35:51.322 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:35:51.340 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.config.ConfigReader - Loaded configuration properties from C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\resources\config.properties
+2026-11-10 20:35:51.372 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:app=C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk}
+2026-11-10 20:35:52.300 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-10 20:35:52.308 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testEmptyUsernameValidation ====
+2026-11-10 20:35:52.313 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:35:52.314 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:app=C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk}
+2026-11-10 20:35:52.737 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-10 20:35:52.738 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testInvalidPasswordShowsError ====
+2026-11-10 20:35:52.741 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:35:52.741 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:app=C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk}
+2026-11-10 20:35:53.196 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-10 20:35:53.197 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testSuccessfulLogin ====
+2026-11-10 20:35:53.251 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:35:53.491 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.
+2026-11-10 20:36:23.588 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:36:23.741 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-10 20:36:23.780 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:36:23.793 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.config.ConfigReader - Loaded configuration properties from C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\resources\config.properties
+2026-11-10 20:36:23.822 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:app=C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk}
+2026-11-10 20:36:24.624 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-10 20:36:24.630 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testEmptyUsernameValidation ====
+2026-11-10 20:36:24.633 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:36:24.634 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:app=C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk}
+2026-11-10 20:36:25.079 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-10 20:36:25.079 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testInvalidPasswordShowsError ====
+2026-11-10 20:36:25.081 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:36:25.081 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=false, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:app=C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\test\resources\apps\Android.SauceLabs.Mobile.Sample.app.2.7.1.apk}
+2026-11-10 20:36:25.573 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-10 20:36:25.574 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testSuccessfulLogin ====
+2026-11-10 20:36:25.620 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:36:25.837 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.
+2026-11-10 20:39:45.704 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:39:45.907 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-10 20:39:45.963 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:39:45.981 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.config.ConfigReader - Loaded configuration properties from C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\resources\config.properties
+2026-11-10 20:39:46.017 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=true, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:40:15.958 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-10 20:40:15.966 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testEmptyUsernameValidation ====
+2026-11-10 20:40:15.969 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:40:15.970 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=true, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:40:45.485 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-10 20:40:45.486 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testInvalidPasswordShowsError ====
+2026-11-10 20:40:45.488 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:40:45.489 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=true, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:41:14.414 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-10 20:41:15.614 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testSuccessfulLogin ====
+2026-11-10 20:41:15.697 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:41:15.971 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.
+2026-11-10 20:43:33.723 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:43:33.945 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-10 20:43:33.998 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:43:34.022 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.config.ConfigReader - Loaded configuration properties from C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\src\main\resources\config.properties
+2026-11-10 20:43:34.058 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=true, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:43:42.384 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Successfully established ANDROID session on device: Pixel_7_Pro_API_34
+2026-11-10 20:43:42.386 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-10 20:43:44.315 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.pages.LoginPage - Cleared and entered text into Username Input: ''
+2026-11-10 20:43:45.900 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.pages.LoginPage - Cleared and entered text into Password Input: 'secret_sauce'
+2026-11-10 20:43:46.547 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.pages.LoginPage - Clicked on element: Login Button
+2026-11-10 20:43:47.206 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.pages.LoginPage - Retrieved text from Error Message Banner: 'Username is required'
+2026-11-10 20:43:47.209 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Test Passed: testEmptyUsernameValidation ====
+2026-11-10 20:43:47.211 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Terminating driver session on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:43:47.571 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:43:47.572 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=true, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:43:50.752 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Successfully established ANDROID session on device: Pixel_7_Pro_API_34
+2026-11-10 20:43:50.752 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-10 20:43:51.447 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.pages.LoginPage - Cleared and entered text into Username Input: 'standard_user'
+2026-11-10 20:43:53.051 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.pages.LoginPage - Cleared and entered text into Password Input: 'invalid_password'
+2026-11-10 20:43:53.686 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.pages.LoginPage - Clicked on element: Login Button
+2026-11-10 20:43:54.563 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.pages.LoginPage - Retrieved text from Error Message Banner: 'Username and password do not match any user in this service.'
+2026-11-10 20:43:54.564 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Test Passed: testInvalidPasswordShowsError ====
+2026-11-10 20:43:54.565 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Terminating driver session on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:43:54.978 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:43:54.979 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Configured UiAutomator2Options: {appium:noReset=true, appium:autoGrantPermissions=true, appium:newCommandTimeout=120, appium:appActivity=com.swaglabsmobileapp.MainActivity, appium:deviceName=Pixel_7_Pro_API_34, platformName=ANDROID, appium:automationName=UiAutomator2, appium:appPackage=com.swaglabsmobileapp}
+2026-11-10 20:43:58.229 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.driver.DriverFactory - Successfully established ANDROID session on device: Pixel_7_Pro_API_34
+2026-11-10 20:43:58.230 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-10 20:43:59.413 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.pages.LoginPage - Cleared and entered text into Username Input: 'standard_user'
+2026-11-10 20:44:01.150 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.pages.LoginPage - Cleared and entered text into Password Input: 'secret_sauce'
+2026-11-10 20:44:01.875 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.pages.LoginPage - Clicked on element: Login Button
+2026-11-10 20:44:03.102 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.pages.ProductsPage - Retrieved text from Products Page Header: 'PRODUCTS'
+2026-11-10 20:44:03.103 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Test Passed: testSuccessfulLogin ====
+2026-11-10 20:44:03.104 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Terminating driver session on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-10 20:44:03.559 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-10 20:44:03.814 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.

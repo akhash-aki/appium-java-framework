@@ -1,0 +1,78 @@
+2026-11-09 20:34:24.205 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-09 20:34:24.410 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-09 20:34:24.461 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:34:24.476 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-09 20:34:24.483 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testEmptyUsernameValidation ====
+2026-11-09 20:34:24.487 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:34:24.489 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-09 20:34:24.490 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testInvalidPasswordShowsError ====
+2026-11-09 20:34:24.492 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:34:24.494 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-09 20:34:24.495 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testSuccessfulLogin ====
+2026-11-09 20:34:24.546 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-09 20:34:24.800 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.
+2026-11-09 20:38:04.569 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-09 20:38:04.733 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-09 20:38:04.775 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:38:04.791 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-09 20:38:04.799 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testEmptyUsernameValidation ====
+2026-11-09 20:38:04.802 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:38:04.805 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-09 20:38:04.805 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testInvalidPasswordShowsError ====
+2026-11-09 20:38:04.808 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:38:04.810 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-09 20:38:04.810 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testSuccessfulLogin ====
+2026-11-09 20:38:04.862 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-09 20:38:05.131 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.
+2026-11-09 20:43:43.658 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-09 20:43:43.798 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-09 20:43:43.833 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:43:43.847 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-09 20:43:43.853 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testEmptyUsernameValidation ====
+2026-11-09 20:43:43.856 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:43:43.858 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-09 20:43:43.859 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testInvalidPasswordShowsError ====
+2026-11-09 20:43:43.860 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:43:43.862 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-09 20:43:43.863 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testSuccessfulLogin ====
+2026-11-09 20:43:43.916 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-09 20:43:44.155 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.
+2026-11-09 20:44:50.750 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-09 20:44:50.883 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-09 20:44:50.918 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:44:50.931 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-09 20:44:50.938 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testEmptyUsernameValidation ====
+2026-11-09 20:44:50.941 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:44:50.943 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-09 20:44:50.944 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testInvalidPasswordShowsError ====
+2026-11-09 20:44:50.946 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:44:50.947 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-09 20:44:50.948 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testSuccessfulLogin ====
+2026-11-09 20:44:50.995 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-09 20:44:51.235 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.
+2026-11-09 20:49:00.572 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-09 20:49:00.711 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-09 20:49:00.745 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:49:00.758 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-09 20:49:00.765 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testEmptyUsernameValidation ====
+2026-11-09 20:49:00.768 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:49:00.771 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-09 20:49:00.771 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testInvalidPasswordShowsError ====
+2026-11-09 20:49:00.774 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 20:49:00.776 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-09 20:49:00.776 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testSuccessfulLogin ====
+2026-11-09 20:49:00.826 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-09 20:49:01.054 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.
+2026-11-09 21:00:23.470 [main] INFO  c.framework.listeners.TestListener - Starting Test Suite: Appium Mobile Automation Suite
+2026-11-09 21:00:23.634 [main] INFO  c.f.reports.ExtentReportManager - Initialized ExtentReports at C:\Users\AKi\Desktop\Akhash Job\Projects\appium-java-framework\reports\index.html
+2026-11-09 21:00:23.684 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 21:00:23.697 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testEmptyUsernameValidation ====
+2026-11-09 21:00:23.706 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testEmptyUsernameValidation ====
+2026-11-09 21:00:23.710 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 21:00:23.713 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testInvalidPasswordShowsError ====
+2026-11-09 21:00:23.714 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testInvalidPasswordShowsError ====
+2026-11-09 21:00:23.717 [TestNG-test-Android Mobile Tests-1] INFO  com.framework.tests.LoginTest - Initializing driver session for platform [ANDROID] on thread [TestNG-test-Android Mobile Tests-1]
+2026-11-09 21:00:23.723 [TestNG-test-Android Mobile Tests-1] INFO  c.framework.listeners.TestListener - ==== Starting Test: testSuccessfulLogin ====
+2026-11-09 21:00:23.724 [TestNG-test-Android Mobile Tests-1] WARN  c.framework.listeners.TestListener - ==== Test Skipped: testSuccessfulLogin ====
+2026-11-09 21:00:23.784 [main] INFO  c.framework.listeners.TestListener - Completed Test Suite: Appium Mobile Automation Suite
+2026-11-09 21:00:24.148 [main] INFO  c.f.reports.ExtentReportManager - Flushed ExtentReports output.

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-11-10T20:43:33 IST" name="Appium Mobile Automation Suite" finished-at="2026-11-10T20:44:03 IST" duration-ms="29586">
+    <groups>
+    </groups>
+    <test started-at="2026-11-10T20:43:33 IST" name="Android Mobile Tests" finished-at="2026-11-10T20:44:03 IST" duration-ms="29586">
+      <class name="com.framework.tests.LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.framework.tests.LoginTest@6cc4cdb9]" started-at="2026-11-10T20:43:33 IST" name="setUp" finished-at="2026-11-10T20:43:42 IST" duration-ms="8406" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ANDROID]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pixel_7_Pro_API_34]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testEmptyUsernameValidation()[pri:0, instance:com.framework.tests.LoginTest@6cc4cdb9]" started-at="2026-11-10T20:43:42 IST" name="testEmptyUsernameValidation" description="Verify validation error when username is left blank" finished-at="2026-11-10T20:43:47 IST" duration-ms="4823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEmptyUsernameValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.framework.tests.LoginTest@6cc4cdb9]" started-at="2026-11-10T20:43:47 IST" name="tearDown" finished-at="2026-11-10T20:43:47 IST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.framework.tests.LoginTest@6cc4cdb9]" started-at="2026-11-10T20:43:47 IST" name="setUp" finished-at="2026-11-10T20:43:50 IST" duration-ms="3181" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ANDROID]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pixel_7_Pro_API_34]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInvalidPasswordShowsError()[pri:0, instance:com.framework.tests.LoginTest@6cc4cdb9]" started-at="2026-11-10T20:43:50 IST" name="testInvalidPasswordShowsError" description="Verify error message appears when using invalid password" finished-at="2026-11-10T20:43:54 IST" duration-ms="3812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidPasswordShowsError -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.framework.tests.LoginTest@6cc4cdb9]" started-at="2026-11-10T20:43:54 IST" name="tearDown" finished-at="2026-11-10T20:43:54 IST" duration-ms="412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:com.framework.tests.LoginTest@6cc4cdb9]" started-at="2026-11-10T20:43:54 IST" name="setUp" finished-at="2026-11-10T20:43:58 IST" duration-ms="3251" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ANDROID]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pixel_7_Pro_API_34]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSuccessfulLogin()[pri:0, instance:com.framework.tests.LoginTest@6cc4cdb9]" started-at="2026-11-10T20:43:58 IST" name="testSuccessfulLogin" description="Verify user can log in with valid credentials" finished-at="2026-11-10T20:44:03 IST" duration-ms="4874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSuccessfulLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.framework.tests.LoginTest@6cc4cdb9]" started-at="2026-11-10T20:44:03 IST" name="tearDown" finished-at="2026-11-10T20:44:03 IST" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.framework.tests.LoginTest -->
+    </test> <!-- Android Mobile Tests -->
+  </suite> <!-- Appium Mobile Automation Suite -->
+</testng-results>
